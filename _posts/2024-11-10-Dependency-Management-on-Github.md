@@ -3,7 +3,7 @@ layout: post
 title: Automating Dependency Updates with DuneBot.
 ---
 
-Here’s the revised blog post focusing on Dependabot integration and DuneBot's merge-after-age feature:
+DuneBot is a GitHub application developed to enhance automation around dependency management by working alongside Dependabot. It’s designed to streamline the approval and merging of dependency update pull requests (PRs) by applying custom rules that determine which PRs are safe to merge automatically.
 
 ---
 
